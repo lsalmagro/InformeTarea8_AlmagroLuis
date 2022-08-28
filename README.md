@@ -89,10 +89,10 @@ Capitulos 15 y 16
 4.VÍDEO
 
 Circuitos RC
-https://youtu.be/izTmoniT6QU
+[https://youtu.be/izTmoniT6QU](https://www.youtube.com/watch?v=i4-MmfOqEX0)
 
 Circuitos RL
-https://youtu.be/DRcRd8Fse_Y
+[https://youtu.be/DRcRd8Fse_Y](https://www.youtube.com/watch?v=ZdnpQhbcnDM)
 
 5.CONCLUSIONES
 
