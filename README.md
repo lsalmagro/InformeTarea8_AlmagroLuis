@@ -38,22 +38,33 @@ Capitulos 15 y 16
 ![image](https://user-images.githubusercontent.com/105899463/187096756-fd5d2470-d5fa-45d4-a532-efad6308ae07.png)
 ![image](https://user-images.githubusercontent.com/105899463/187096766-0c0022b8-eb47-4f3a-a65e-f41aa6e1a357.png)
 
-
-
-
+![image](https://user-images.githubusercontent.com/105899463/187097385-94bced93-7a24-4b5b-aa4a-e03c4c89b109.png)
+![image](https://user-images.githubusercontent.com/105899463/187097389-75592267-89d7-4629-9827-83bec26994a9.png)
+![image](https://user-images.githubusercontent.com/105899463/187097428-31a30224-1389-426d-9a00-9539f3351d23.png)
+![image](https://user-images.githubusercontent.com/105899463/187097439-4b52f421-14fe-4f2e-b5d7-33458a121b03.png)
+![image](https://user-images.githubusercontent.com/105899463/187097459-016b637a-a956-4472-8093-c00997bf7a9f.png)
+![image](https://user-images.githubusercontent.com/105899463/187097469-ba26283a-9980-460a-bcbf-48edab157430.png)
+![image](https://user-images.githubusercontent.com/105899463/187097480-5e1c0c3c-a8be-457a-94c6-905f8bc0e8ff.png)
+![image](https://user-images.githubusercontent.com/105899463/187097485-812aa6f3-5b32-4d01-a3c7-609f56d9ccd4.png)
+![image](https://user-images.githubusercontent.com/105899463/187097490-b9ce0760-1601-4add-ab7f-eec6f7bb7e98.png)
+![image](https://user-images.githubusercontent.com/105899463/187097495-4fe8bfec-8c65-4099-b169-252a3179adf2.png)
+![image](https://user-images.githubusercontent.com/105899463/187097500-73a07779-2df6-4751-ad5d-7e3c699e4c22.png)
+![image](https://user-images.githubusercontent.com/105899463/187097505-e8a05cda-766e-425c-af21-fa6462c36e92.png)
+![image](https://user-images.githubusercontent.com/105899463/187097520-269c31c8-7392-4fa5-bb6b-f170658aa821.png)
 
 4.VÍDEO
 
-Introducción a la corriente y al voltajes alternos.
+Circuitos RC
 https://youtu.be/izTmoniT6QU
 
-Capacitores.
+Circuitos RL
 https://youtu.be/DRcRd8Fse_Y
 
 5.CONCLUSIONES
 
-- Se logró obtener los conocimientos necesarios para indentificar, describir y analizar corrientes y voltajes en ondas sinusoidales.
-- Se obtuvó conocimientos generales de los capacitores.
+- Se logró obtener los conocimientos necesarios para indentificar, describir y analizar circuitos RC y RL (serie, paralelo y mixto)
+- Se logró didentificar y determinar su relacion corriente y voltaje.
+- Determinar impedancia y admitancia en cada uno de los circuitos RC y RL.
 
 6.BIBLIOGRAFIA
 
